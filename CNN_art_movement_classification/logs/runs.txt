@@ -1,0 +1,15 @@
+### RUN 1
+
+DENSENET: 20 epochs, dropout rate 0.2, learning_rate 1e-4, batch size 32, input size 150x150x3, last layer 256
+
+VGG16: 20 epochs, dropout rate 0.2, learning_rate 1e-4, batch size 32, input size 150x150x3, last layer 256
+
+VGG19: 20 epochs, dropout rate 0.2, learning_rate 1e-4, batch size 32, input size 150x150x3, last layer 256
+
+### RUN 2
+
+DENSENET: 100 epochs, dropout 0.3, learning rate 1e-5, batch 32, input size 150x150x3, last layer 2056
+
+VGG16: 100 epochs, dropout 0.3, learning rate 1e-5, batch 32, input size 150x150x3, last layer 2056
+
+VGG19: 100 epochs, dropout 0.3, learning rate 1e-5, batch 32, input size 150x150x3, last layer 2056
